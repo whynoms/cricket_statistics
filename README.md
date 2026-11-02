@@ -10,7 +10,7 @@ I am a cricket fan and the website, Cricinfo, has many tables that are pretty di
 
 The following is the flowchart for the tool.
 
-![System diagram](<"CS 193 Cricket Info Flowchart.drawio (1).png">)
+![System diagram](<CS 193 Cricket Info Flowchart.drawio (1).png>)
 
 ## Tech Stack
 
